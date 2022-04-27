@@ -1,0 +1,20 @@
+cd e:
+mkdir Rohit
+cd Rohit
+git init
+git config --global user.name "Rohit Mittal"
+git config --global user.email "mittalrohit701@gmail.com"
+git config user.name
+git config user.email
+touch test1.txt
+vi test1.txt 
+press i //Insert
+press esc :wq
+git status 
+git add file name 
+git add . // Add All Files together
+git add -A // Add All Files Together
+git commit -m file name " commit" 
+git commit -am "commit" // Commit All TOgether
+git log
+git log --oneline 
