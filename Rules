@@ -1,3 +1,4 @@
+Hello hi
 cd e:
 mkdir Rohit
 cd Rohit
@@ -17,4 +18,4 @@ git add -A // Add All Files Together
 git commit -m file name " commit" 
 git commit -am "commit" // Commit All TOgether
 git log
-git log --oneline 
+git log --onelinie 
